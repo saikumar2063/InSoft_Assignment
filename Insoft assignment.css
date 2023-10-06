@@ -1,0 +1,135 @@
+.mobile {
+    background-color: #ff5202;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.contact-details {
+    display: flex;
+}
+
+.contact {
+    margin-right: 10px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons {
+    display: flex;
+    margin-left: 15px;
+    padding-left: 15px;
+}
+
+.whats-app {
+    background-color: green;
+    color: white;
+    margin-left: 15px;
+}
+
+.mobile-app {
+    background-color: #A4c639;
+    color: white;
+}
+
+.links {
+    display: flex;
+}
+
+.button {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.header-nav-bar {
+    background-color: #ff5202;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+
+.logo {
+    height: 50px;
+}
+
+.un-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.list {
+    margin-left: 10px;
+}
+
+.smart-student-section {
+    background-color: #ff5202;
+    display: flex;
+    flex-direction: column;
+    justify-content: Center;
+    align-items: center;
+}
+
+.hero-banner-bg {
+    background-image: url('https://schoolaura.com/Content/new_assets/images/header/banner-bg.png');
+
+}
+
+.heading {
+    color: #ffffff;
+}
+
+span {
+    color: #000000;
+}
+
+.paragraph {
+    color: #ffffff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 120px;
+    border-radius: 15px;
+    margin-left: 15px;
+}
+
+.container-heading {
+    font-size: 20px;
+    text-align: center;
+}
+
+.exam-btn {
+    background-color: #ff5202;
+    color: #fff;
+    border-radius: 10px;
+    outline: none;
+    margin-bottom: 10px;
+    border: 0px;
+    width: 100px;
+}
+
+.course-btn {
+    background-color: #ff5202;
+    color: #fff;
+    border-radius: 10px;
+    outline: none;
+    margin-bottom: 10px;
+    border: 0px;
+    width: 100px;
+}
+
+
+.container-section {
+    display: flex;
+    justify-content: space-evenly;
+}
